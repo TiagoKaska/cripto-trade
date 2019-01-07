@@ -1,0 +1,16 @@
+{
+  "name": "external-api-call",
+  "version": "1.0.0",
+  "main": "main.js",
+  "scripts": {
+    "start": "micro"
+  },
+  "dependencies": {
+    "micro": "latest",
+    "node-cron": "^2.0.3",
+    "node-fetch": "latest",
+    "then-sleep": "latest"
+  },
+  "author": "",
+  "license": "MIT"
+}
