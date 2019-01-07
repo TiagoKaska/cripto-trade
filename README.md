@@ -1,0 +1,2 @@
+# cripto-trade
+Cripto Trade
